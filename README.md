@@ -1,3 +1,3 @@
 # Kokoa Clone
 
-CSS got so much better!
+HMTL & CSS got so much fun!
